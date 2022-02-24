@@ -1,0 +1,75 @@
+[2021-03-27 14:12:35]
+null
+
+[2021-03-27 14:13:09]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 14:13:09]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:13:13]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:14:02]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:14:03]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 14:14:04]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:14:06]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hallo"},"type":"chat"}
+
+[2021-03-27 14:14:07]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:14:56]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 14:15:28]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 14:27:17]
+{"fromMe":false,"data":{"from":"6289611274798@c.us","body":"Siap mas"},"type":"chat"}
+
+[2021-03-27 15:52:52]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:53:57]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:55:20]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:55:36]
+{"fromMe":false,"data":{"from":"@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:56:38]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:57:12]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 15:57:18]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"hai"},"type":"chat"}
+
+[2021-03-27 15:57:18]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 15:58:47]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:00:56]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:01:52]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"gambar"},"type":"chat"}
+
+[2021-03-27 16:01:54]
+{"fromMe":true,"data":{"from":"6289522811620@c.us","body":""},"type":"chat"}
+
+[2021-03-27 16:03:20]
+{"fromMe":false,"data":{"from":"6289522811620@c.us","body":"f"},"type":"chat"}
+

@@ -1,0 +1,24 @@
+{
+  "name": "unofficial-wa-bot",
+  "version": "1.0.0",
+  "description": "Unofficial WhatsApp Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ilman Sunannudin",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1",
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "express-validator": "^6.10.0",
+    "fs": "0.0.1-security",
+    "http": "0.0.1-security",
+    "pusher": "^4.0.2",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2",
+    "socket.io": "^3.1.2"
+  }
+}
